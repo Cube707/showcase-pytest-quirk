@@ -1,4 +1,4 @@
-from fixtures import foo
+from .fixtures import foo
 
 
 def test_a1(foo):
